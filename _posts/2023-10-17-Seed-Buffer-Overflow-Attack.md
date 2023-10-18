@@ -4,18 +4,10 @@ date: 2023-10-01 9:42:38 +0800
 categories: [STUDY, algorithm]
 tags: [algorithm]     # TAG names should always be lowercase
 ---
-Operating Systems Security – Project 3
+## Buffer Overflow Vulnerability Lab
 
-Buffer Overflow Vulnerability Lab
 
-2
-![](/assets/img/20231017/Aspose.Words.a8819b46-3772-44f4-820f-6783b858ab15.001.png)NYIT/VOLUME 1/©2023 IEEE
 
-JJJJJ
-
-
-
-Operating Systems Security – Project 4
 1. # Introduction
 Buffer Overflow occurs when a computer program attempts to write data to a buffer (a type of memory area), but the capacity of the buffer was insufficient to accommodate the written data, resulting in excess data covering the contents of adjacent memory areas. This may cause program exceptions and crashes. Malicious users can exploit this vulnerability to execute malicious code or control programs. In This lab, We will run a program with a buffer overflow leak. We need to develop a solution that utilizes this leak and ultimately obtains root privileges. In addition to attacks, we also need to understand several protection schemes implemented in the operating system to resist buffer overflow attacks.
 
