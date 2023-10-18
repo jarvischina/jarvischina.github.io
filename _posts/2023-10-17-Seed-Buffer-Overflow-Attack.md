@@ -3,7 +3,7 @@
 Buffer Overflow Vulnerability Lab
 
 2
-![](/assets/img/20231017//assets/img/20231017/Aspose.Words.a8819b46-3772-44f4-820f-6783b858ab15.001.png)NYIT/VOLUME 1/©2023 IEEE
+![](/assets/img/20231017/Aspose.Words.a8819b46-3772-44f4-820f-6783b858ab15.001.png)NYIT/VOLUME 1/©2023 IEEE
 
 JingWei Yu
 *NewYork Insititute of Technology(NYIT)*
