@@ -1,14 +1,17 @@
-﻿Operating Systems Security – Project 3
+﻿---
+title: MBuffer Overflow Vulnerability Lab
+date: 2023-10-01 9:42:38 +0800
+categories: [STUDY, algorithm]
+tags: [algorithm]     # TAG names should always be lowercase
+---
+Operating Systems Security – Project 3
 
 Buffer Overflow Vulnerability Lab
 
 2
 ![](/assets/img/20231017/Aspose.Words.a8819b46-3772-44f4-820f-6783b858ab15.001.png)NYIT/VOLUME 1/©2023 IEEE
 
-JingWei Yu
-*NewYork Insititute of Technology(NYIT)*
-Vancouver, Canada
-jyu38@nyit.edu
+JJJJJ
 
 
 
